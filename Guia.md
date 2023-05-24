@@ -1,9 +1,9 @@
 # Guia da Aplicação
-## => Atalhos
+## Atalhos
 *Comando ccc*
 > *Criar base do código*
 
-## => Dependências
+## Dependências
 *npm i*
 > *React*
 
