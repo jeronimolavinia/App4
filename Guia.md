@@ -1,7 +1,7 @@
 # GUIA DA APLICAÇÃO
 ## Atalhos
 * *Comando ccc*
-> *Criar base do código*
+> **Criar base do código**
 
 ## Dependências
 * *npm i*
