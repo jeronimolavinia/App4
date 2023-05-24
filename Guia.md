@@ -1,4 +1,4 @@
-# Guia => Aplicação
+# Guia da Aplicação
 ## Atalhos para comandos
 *Comando ccc*
 > Criar base do código
