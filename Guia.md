@@ -1,5 +1,5 @@
 # Guia da Aplicação
-## Atalhos para comandos
+## Atalhos
 *Comando ccc*
 > *Criar base do código*
 
