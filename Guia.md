@@ -1,11 +1,11 @@
 # Guia da Aplicação
 ## Atalhos
-*Comando ccc*
+* *Comando ccc*
 > *Criar base do código*
 
 ## Dependências
-*npm i*
+* *npm i*
 > *React*
 
-*npx expo install react-native-maps*
+* *npx expo install react-native-maps*
 > *Colocar mapa na aplicação*
