@@ -5,7 +5,7 @@
 
 ## Dependências
 * *npm i*
-> * **Instalação do React**
+> **Instalação do React**
 
 * *npx expo install react-native-maps*
-> * **Colocar mapa na aplicação**
+> **Colocar mapa na aplicação**
